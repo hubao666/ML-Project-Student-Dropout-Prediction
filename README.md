@@ -36,5 +36,5 @@ If you would like to contribute, follow these steps:
 4. Submit a pull request against the `main` branch of this repo.
 
 ## Backend Development
-This project's backend development was led by [Bao Hu]. For more details on the backend implementation, visit the [backend repository](https://github.com/hubao666/ECS171_Group14_FinalProject).
+This project's backend development was led by __Bao Hu__ and __Sahil Khatri__. For more details on the backend implementation, visit the [backend repository](https://github.com/hubao666/ECS171_Group14_FinalProject).
 
