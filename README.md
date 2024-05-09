@@ -34,3 +34,7 @@ If you would like to contribute, follow these steps:
 2. Make your changes and commit.
 3. Push changes to your fork.
 4. Submit a pull request against the `main` branch of this repo.
+
+## Backend Development
+This project's backend development was led by [Bao Hu]. For more details on the backend implementation, visit the [backend repository](https://github.com/hubao666/ECS171_Group14_FinalProject).
+
